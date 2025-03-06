@@ -1,0 +1,13 @@
+Total number of requests: 308
+Total data transmitted: 1513346723 bytes
+Most requested resource: /api/create (40 requests)
+Percentage of requests for this resource: 12.99%
+Remote host with the most requests: localhost (119 requests)
+Percentage of requests from this host: 38.64%
+
+Percentage of each class of HTTP status code:
+1xx: 22.73%
+2xx: 20.45%
+3xx: 18.18%
+4xx: 19.16%
+5xx: 19.48%

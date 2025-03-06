@@ -1,0 +1,13 @@
+Total number of requests: 251
+Total data transmitted: 1340826098 bytes
+Most requested resource: /media/media%201.ts (37 requests)
+Percentage of requests for this resource: 14.74%
+Remote host with the most requests: 127.0.0.1 (86 requests)
+Percentage of requests from this host: 34.26%
+
+Percentage of each class of HTTP status code:
+1xx: 22.71%
+2xx: 19.12%
+3xx: 17.13%
+4xx: 21.91%
+5xx: 19.12%
